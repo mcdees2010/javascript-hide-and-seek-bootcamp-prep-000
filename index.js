@@ -11,6 +11,7 @@ function increaseRankBy(n) {
   
   for( let i = 0; i < rankedLists.length; i++){
     
+    
   }
     
 }
